@@ -1,0 +1,13 @@
+target/
+*.class
+*.log
+*.xml
+*.png
+.idea/
+.vscode/
+*.iml
+window_dump.xml
+view.xml
+feed.xml
+last_screen.png
+!pom.xml
